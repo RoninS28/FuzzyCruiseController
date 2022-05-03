@@ -1,0 +1,1 @@
+SCOA mini project for Fuzzy Cruise Controller
